@@ -1,0 +1,13 @@
+.nav-link {
+  text-decoration: none;
+}
+.nav-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+}
+.header-container {
+  display: flex;
+  justify-content: center;
+}
